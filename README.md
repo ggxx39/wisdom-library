@@ -1,8 +1,11 @@
 # 🏛️ 个人智慧文库 (Wisdom Library)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggxx39/wisdom-library/blob/main/notebooks/wisdom_library_colab.ipynb)
+
 > **从知识到智慧的流式淬炼**  
 > 真正的智慧不在于收藏了多少扫描件，而在于能否随时在移动端沉浸吸收，并被个人智慧中枢召回、交叉推理与链接。  
-> 本文库所有藏书均经过 **出版级流式重排（Reflowable EPUB 3）** 与 **结构化知识库 Markdown** 双产物淬炼，直连个人智慧引擎。
+> 本文库所有藏书均遵循**最高出版级精度标准（Accuracy First）**，经过 **流式重排（Reflowable EPUB 3）** 与 **结构化知识库 Markdown** 双产物淬炼，直连个人智慧引擎。  
+> **建设原则**：步步为营，每天精排 1~2 部经典名著，持续构建永恒数字智慧资产。
 
 ---
 
